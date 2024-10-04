@@ -1,2 +1,2 @@
 # Whatapp-blast-server
-this server
+this server for what app blast
